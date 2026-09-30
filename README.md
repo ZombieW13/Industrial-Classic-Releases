@@ -6,12 +6,13 @@ This repository contains release downloads, manifests, checksums, release notes
 and the license files required by each package. It does **not** contain or mirror
 the private development source repository.
 
-## Current status
+## Current release
 
-The first public Alpha, `A.12.0`, is being prepared. A version is available only
-after it appears on the [Releases page](https://github.com/ZombieW13/Industrial-Classic-Releases/releases).
+The first public Alpha, [`A.12.0`](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/tag/A.12.0),
+is available. Download it only from this repository's
+[Releases page](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/latest).
 
-Do not download placeholder files or builds obtained from third-party sources.
+Do not download builds obtained from third-party sources.
 
 ## Supported environment
 
@@ -61,11 +62,12 @@ Este é o canal público oficial de distribuição do IndustrialClassic. O
 repositório contém somente releases, manifestos, checksums, notas e licenças;
 ele não contém nem espelha o repositório privado de desenvolvimento.
 
-O primeiro Alpha público, `A.12.0`, está em preparação. Considere uma versão
-disponível somente quando ela aparecer na página
-[Releases](https://github.com/ZombieW13/Industrial-Classic-Releases/releases).
-Use preferencialmente o instalador `IndustrialClassic-Launcher-Setup` e confira
-todo download com o arquivo `checksums.sha256` da mesma release.
+O primeiro Alpha público,
+[`A.12.0`](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/tag/A.12.0),
+está disponível. Baixe-o somente pela página oficial de
+[Releases](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/latest).
+Use preferencialmente o instalador `IndustrialClassic-Launcher-Setup-1.exe` e
+confira todo download com o arquivo `checksums.sha256` da mesma release.
 
 O Launcher usa uma instância isolada e deixa a autenticação Microsoft e a ação
 final de jogar no Minecraft Launcher oficial. Ao solicitar suporte, compartilhe
