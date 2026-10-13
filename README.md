@@ -8,7 +8,7 @@ the private development source repository.
 
 ## Current release
 
-The first public Alpha, [`A.12.0`](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/tag/A.12.0),
+The current Public Stable Alpha, [`A.12.5`](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/tag/A.12.5),
 is available. Download it only from this repository's
 [Releases page](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/latest).
 
@@ -16,10 +16,10 @@ Do not download builds obtained from third-party sources.
 
 ## Supported environment
 
-- Minecraft: Java Edition `26.2`;
+- Minecraft: Java Edition `26.3`;
 - Java `25`;
-- Fabric Loader `0.19.3`;
-- Fabric API `0.155.2+26.2`;
+- Fabric Loader `0.19.5`;
+- Fabric API `0.161.0+26.3`;
 - Windows 11 x64 for the official IndustrialClassic Launcher.
 
 ## Release downloads
@@ -35,7 +35,7 @@ Each approved release may contain:
 - `manifest-A.<sprint>.<revision>.json` and `manifest-stable.json` — verified distribution manifests;
 - `checksums.sha256` — SHA-256 hashes for every published asset.
 
-The first public executables are not digitally signed. Verify downloads against
+The public executables are not digitally signed. Verify downloads against
 `checksums.sha256` from the same GitHub Release before running them.
 
 ## Installation
@@ -62,11 +62,12 @@ Este é o canal público oficial de distribuição do IndustrialClassic. O
 repositório contém somente releases, manifestos, checksums, notas e licenças;
 ele não contém nem espelha o repositório privado de desenvolvimento.
 
-O primeiro Alpha público,
-[`A.12.0`](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/tag/A.12.0),
-está disponível. Baixe-o somente pela página oficial de
+O Alpha Public Stable atual,
+[`A.12.5`](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/tag/A.12.5),
+está disponível para Minecraft `26.3`, Java `25`, Fabric Loader `0.19.5` e
+Fabric API `0.161.0+26.3`. Baixe-o somente pela página oficial de
 [Releases](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/latest).
-Use preferencialmente o instalador `IndustrialClassic-Launcher-Setup-1.exe` e
+Use preferencialmente o instalador `IndustrialClassic-Launcher-Setup-2.exe` e
 confira todo download com o arquivo `checksums.sha256` da mesma release.
 
 O Launcher usa uma instância isolada e deixa a autenticação Microsoft e a ação
