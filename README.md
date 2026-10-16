@@ -8,7 +8,7 @@ the private development source repository.
 
 ## Current release
 
-The current Public Stable Alpha, [`A.12.5`](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/tag/A.12.5),
+The current Public Stable Alpha, [`A.12.7`](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/tag/A.12.7),
 is available. Download it only from this repository's
 [Releases page](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/latest).
 
@@ -63,7 +63,7 @@ repositório contém somente releases, manifestos, checksums, notas e licenças;
 ele não contém nem espelha o repositório privado de desenvolvimento.
 
 O Alpha Public Stable atual,
-[`A.12.5`](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/tag/A.12.5),
+[`A.12.7`](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/tag/A.12.7),
 está disponível para Minecraft `26.3`, Java `25`, Fabric Loader `0.19.5` e
 Fabric API `0.161.0+26.3`. Baixe-o somente pela página oficial de
 [Releases](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/latest).
