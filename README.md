@@ -8,9 +8,11 @@ the private development source repository.
 
 ## Current release
 
-The current Public Stable Alpha, [`A.12.7`](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/tag/A.12.7),
+The current Public Stable Alpha, [`A.14.0`](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/tag/A.14.0),
 is available. Download it only from this repository's
 [Releases page](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/latest).
+
+Launcher revision 3 is included. Existing installations should open the IC Launcher, update the Launcher first, then update/repair the mod.
 
 Do not download builds obtained from third-party sources.
 
@@ -63,11 +65,11 @@ repositório contém somente releases, manifestos, checksums, notas e licenças;
 ele não contém nem espelha o repositório privado de desenvolvimento.
 
 O Alpha Public Stable atual,
-[`A.12.7`](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/tag/A.12.7),
+[`A.14.0`](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/tag/A.14.0),
 está disponível para Minecraft `26.3`, Java `25`, Fabric Loader `0.19.5` e
 Fabric API `0.161.0+26.3`. Baixe-o somente pela página oficial de
 [Releases](https://github.com/ZombieW13/Industrial-Classic-Releases/releases/latest).
-Use preferencialmente o instalador `IndustrialClassic-Launcher-Setup-2.exe` e
+Use preferencialmente o instalador `IndustrialClassic-Launcher-Setup-3.exe` e
 confira todo download com o arquivo `checksums.sha256` da mesma release.
 
 O Launcher usa uma instância isolada e deixa a autenticação Microsoft e a ação
